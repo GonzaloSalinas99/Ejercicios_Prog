@@ -1,0 +1,16 @@
+C:\Users\Gonzalo\source\repos\PrimerProyectoConsola\bin\Debug\net5.0\PrimerProyectoConsola.exe
+C:\Users\Gonzalo\source\repos\PrimerProyectoConsola\bin\Debug\net5.0\PrimerProyectoConsola.deps.json
+C:\Users\Gonzalo\source\repos\PrimerProyectoConsola\bin\Debug\net5.0\PrimerProyectoConsola.runtimeconfig.json
+C:\Users\Gonzalo\source\repos\PrimerProyectoConsola\bin\Debug\net5.0\PrimerProyectoConsola.runtimeconfig.dev.json
+C:\Users\Gonzalo\source\repos\PrimerProyectoConsola\bin\Debug\net5.0\PrimerProyectoConsola.dll
+C:\Users\Gonzalo\source\repos\PrimerProyectoConsola\bin\Debug\net5.0\ref\PrimerProyectoConsola.dll
+C:\Users\Gonzalo\source\repos\PrimerProyectoConsola\bin\Debug\net5.0\PrimerProyectoConsola.pdb
+C:\Users\Gonzalo\source\repos\PrimerProyectoConsola\obj\Debug\net5.0\PrimerProyectoConsola.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\source\repos\PrimerProyectoConsola\obj\Debug\net5.0\PrimerProyectoConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\source\repos\PrimerProyectoConsola\obj\Debug\net5.0\PrimerProyectoConsola.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\source\repos\PrimerProyectoConsola\obj\Debug\net5.0\PrimerProyectoConsola.AssemblyInfo.cs
+C:\Users\Gonzalo\source\repos\PrimerProyectoConsola\obj\Debug\net5.0\PrimerProyectoConsola.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\source\repos\PrimerProyectoConsola\obj\Debug\net5.0\PrimerProyectoConsola.dll
+C:\Users\Gonzalo\source\repos\PrimerProyectoConsola\obj\Debug\net5.0\ref\PrimerProyectoConsola.dll
+C:\Users\Gonzalo\source\repos\PrimerProyectoConsola\obj\Debug\net5.0\PrimerProyectoConsola.pdb
+C:\Users\Gonzalo\source\repos\PrimerProyectoConsola\obj\Debug\net5.0\PrimerProyectoConsola.genruntimeconfig.cache

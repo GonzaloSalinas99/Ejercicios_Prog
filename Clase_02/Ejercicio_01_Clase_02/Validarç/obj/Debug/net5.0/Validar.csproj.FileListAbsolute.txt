@@ -1,0 +1,12 @@
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_01_Clase_02\Validarç\bin\Debug\net5.0\Validar.deps.json
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_01_Clase_02\Validarç\bin\Debug\net5.0\Validar.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_01_Clase_02\Validarç\bin\Debug\net5.0\ref\Validar.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_01_Clase_02\Validarç\bin\Debug\net5.0\Validar.pdb
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_01_Clase_02\Validarç\obj\Debug\net5.0\Validar.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_01_Clase_02\Validarç\obj\Debug\net5.0\Validar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_01_Clase_02\Validarç\obj\Debug\net5.0\Validar.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_01_Clase_02\Validarç\obj\Debug\net5.0\Validar.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_01_Clase_02\Validarç\obj\Debug\net5.0\Validar.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_01_Clase_02\Validarç\obj\Debug\net5.0\Validar.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_01_Clase_02\Validarç\obj\Debug\net5.0\ref\Validar.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_01_Clase_02\Validarç\obj\Debug\net5.0\Validar.pdb
