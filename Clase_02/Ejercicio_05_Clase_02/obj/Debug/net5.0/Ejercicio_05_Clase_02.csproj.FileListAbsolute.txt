@@ -1,0 +1,15 @@
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_05_Clase_02\bin\Debug\net5.0\Ejercicio_05_Clase_02.exe
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_05_Clase_02\bin\Debug\net5.0\Ejercicio_05_Clase_02.deps.json
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_05_Clase_02\bin\Debug\net5.0\Ejercicio_05_Clase_02.runtimeconfig.json
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_05_Clase_02\bin\Debug\net5.0\Ejercicio_05_Clase_02.runtimeconfig.dev.json
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_05_Clase_02\bin\Debug\net5.0\Ejercicio_05_Clase_02.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_05_Clase_02\bin\Debug\net5.0\ref\Ejercicio_05_Clase_02.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_05_Clase_02\bin\Debug\net5.0\Ejercicio_05_Clase_02.pdb
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_05_Clase_02\obj\Debug\net5.0\Ejercicio_05_Clase_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_05_Clase_02\obj\Debug\net5.0\Ejercicio_05_Clase_02.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_05_Clase_02\obj\Debug\net5.0\Ejercicio_05_Clase_02.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_05_Clase_02\obj\Debug\net5.0\Ejercicio_05_Clase_02.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_05_Clase_02\obj\Debug\net5.0\Ejercicio_05_Clase_02.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_05_Clase_02\obj\Debug\net5.0\ref\Ejercicio_05_Clase_02.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_05_Clase_02\obj\Debug\net5.0\Ejercicio_05_Clase_02.pdb
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_05_Clase_02\obj\Debug\net5.0\Ejercicio_05_Clase_02.genruntimeconfig.cache
