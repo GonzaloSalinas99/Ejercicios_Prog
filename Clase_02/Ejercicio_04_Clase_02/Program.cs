@@ -11,9 +11,7 @@ namespace Ejercicio_04_Clase_02
             StringBuilder textoCalculo = new StringBuilder();
             StringBuilder textoError = new StringBuilder();
             StringBuilder TextoUsuario = new StringBuilder();
-
             StringBuilder primerNumero = new StringBuilder();
-
             StringBuilder segundoNumero = new StringBuilder();
 
             textoError.AppendLine("No se pudo realizar la operacion");
@@ -26,10 +24,6 @@ namespace Ejercicio_04_Clase_02
                                      "Ingrese el signo (*) si desea multiplicar\n" +
                                      "Ingrese el sino (/) si desea dividir\n" +
                                      "Su respuesta:");
-
-
-
-
 
             decimal primerOperando;
             decimal segundoOperando;
@@ -46,7 +40,7 @@ namespace Ejercicio_04_Clase_02
                 Console.WriteLine(segundoNumero);
                 segundoOperando = decimal.Parse(Console.ReadLine());
 
-                //Console.WriteLine($"Usted ingresó {primeroOperando} y {segundoOperando}");
+                Console.WriteLine("Usted ingresó {0} y {1}", primerOperando, segundoOperando);
 
                 Console.WriteLine(textoCalculo);
                 calculoARealizar = Console.ReadLine();
@@ -61,24 +55,3 @@ namespace Ejercicio_04_Clase_02
         }
     }
 }
-
-
-//Realizar un programa que permita realizar operaciones matemáticas simples
-//(suma, resta, multiplicación y división).
-
-//Crear una clase llamada Calculadora que posea dos métodos estáticos
-//(de clase):
-
-//Calcular(público): Recibirá tres parámetros, el primer operando,
-//el segundo operando y la operación matemática. El método devolverá el
-//resultado de la operación.
-
-//Validar (privado): Recibirá como parámetro el segundo operando.
-//Este método se debe utilizar sólo cuando la operación elegida sea
-//la DIVISIÓN. Este método devolverá true si el operando es distinto
-//de cero.
-
-//Se le debe pedir al usuario que ingrese dos números y la operación
-//que desea realizar (ingresando el caracter +, -, * o /).
-
-//El usuario decidirá cuándo finalizar el programa.
