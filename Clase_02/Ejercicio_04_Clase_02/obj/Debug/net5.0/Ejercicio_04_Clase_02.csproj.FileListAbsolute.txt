@@ -14,3 +14,6 @@ C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_04_Clas
 C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_04_Clase_02\obj\Debug\net5.0\ref\Ejercicio_04_Clase_02.dll
 C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_04_Clase_02\obj\Debug\net5.0\Ejercicio_04_Clase_02.pdb
 C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_04_Clase_02\obj\Debug\net5.0\Ejercicio_04_Clase_02.genruntimeconfig.cache
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_04_Clase_02\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_04_Clase_02\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_02\Ejercicio_04_Clase_02\obj\Debug\net5.0\Ejercicio_04_Clase_02.csproj.CopyComplete

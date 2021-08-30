@@ -1,30 +1,35 @@
 ﻿using System;
+using System.Text;
 
 namespace Biblioteca
 {
     public class Calculadora
     {
-        static int resultado;
-        public static int Calcular(int primerOperando, int segundoOperando,char operacion)
+        static decimal resultado;
+        public static decimal Calcular(decimal primerOperando, decimal segundoOperando,string operacion,StringBuilder mensajeError)
         {
             switch(operacion)
             {
-                case '+':
+                case "+":
                         resultado = primerOperando + segundoOperando;
                     break;
 
-                case '-':
+                case "-":
                     resultado = primerOperando - segundoOperando;
                     break;
 
-                case '*':
+                case "*":
                     resultado = primerOperando * segundoOperando;
                     break;
 
-                case '/':
+                case "/":
                     if(Validar(segundoOperando))
                     {
                         resultado = primerOperando / segundoOperando;
+                    }
+                    else
+                    {
+                        Console.WriteLine(mensajeError);
                     }
                     break;
                 
@@ -32,7 +37,7 @@ namespace Biblioteca
             return resultado;
         }
 
-        private static bool Validar(int segundoOperando)
+        private static bool Validar(decimal segundoOperando)
         {
             bool respuesta=true;
             if (segundoOperando == 0)
