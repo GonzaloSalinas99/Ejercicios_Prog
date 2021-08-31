@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Veterinaria.Consola/1.0.0": {
+        "dependencies": {
+          "Veterinaria": "1.0.0"
+        },
+        "runtime": {
+          "Veterinaria.Consola.dll": {}
+        }
+      },
+      "Veterinaria/1.0.0": {
+        "runtime": {
+          "Veterinaria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Veterinaria.Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Veterinaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
