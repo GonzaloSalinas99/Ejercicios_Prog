@@ -15,7 +15,6 @@ namespace Biblioteca
             this.dni = dni;
         }
 
-
         public string GetNombre()
         {
             return nombre;
@@ -29,8 +28,6 @@ namespace Biblioteca
         {
             return dni;
         }
-
-
 
         public void SetNombre(string nombre)
         {
@@ -57,5 +54,19 @@ namespace Biblioteca
             return edad;
         }
 
+        public string Mostrar()
+        {
+            return $"Nombre: {GetNombre()} Dni: {GetDni()} Edad: {CalcularEdad(fechaNacimiento)}";
+        }
+
+        public string EsMayorDeEdad()
+        {
+            int edad = CalcularEdad(fechaNacimiento);
+            if(edad>17)
+            {
+                return "Es mayor de edad";
+            }
+            return "Es menor de edad";
+        }
     }
 }
