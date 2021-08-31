@@ -1,0 +1,12 @@
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_03\Ejercicio_01_Clase_03\Mascota\bin\Debug\net5.0\Mascota.deps.json
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_03\Ejercicio_01_Clase_03\Mascota\bin\Debug\net5.0\Mascota.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_03\Ejercicio_01_Clase_03\Mascota\bin\Debug\net5.0\ref\Mascota.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_03\Ejercicio_01_Clase_03\Mascota\bin\Debug\net5.0\Mascota.pdb
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_03\Ejercicio_01_Clase_03\Mascota\obj\Debug\net5.0\Mascota.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_03\Ejercicio_01_Clase_03\Mascota\obj\Debug\net5.0\Mascota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_03\Ejercicio_01_Clase_03\Mascota\obj\Debug\net5.0\Mascota.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_03\Ejercicio_01_Clase_03\Mascota\obj\Debug\net5.0\Mascota.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_03\Ejercicio_01_Clase_03\Mascota\obj\Debug\net5.0\Mascota.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_03\Ejercicio_01_Clase_03\Mascota\obj\Debug\net5.0\Mascota.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_03\Ejercicio_01_Clase_03\Mascota\obj\Debug\net5.0\ref\Mascota.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_03\Ejercicio_01_Clase_03\Mascota\obj\Debug\net5.0\Mascota.pdb

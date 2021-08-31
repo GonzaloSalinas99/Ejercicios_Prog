@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Vista\Vista.csproj", "{7AAE2698-66AA-49F2-9B8D-6D1109714DD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mascota", "Mascota\Mascota.csproj", "{0C5EDAD1-51F1-4C9F-8FBA-A37DB24DAEB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AAE2698-66AA-49F2-9B8D-6D1109714DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AAE2698-66AA-49F2-9B8D-6D1109714DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AAE2698-66AA-49F2-9B8D-6D1109714DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AAE2698-66AA-49F2-9B8D-6D1109714DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C5EDAD1-51F1-4C9F-8FBA-A37DB24DAEB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C5EDAD1-51F1-4C9F-8FBA-A37DB24DAEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C5EDAD1-51F1-4C9F-8FBA-A37DB24DAEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C5EDAD1-51F1-4C9F-8FBA-A37DB24DAEB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {687BD403-8C7E-4E6E-8469-6741F73227B8}
+	EndGlobalSection
+EndGlobal
