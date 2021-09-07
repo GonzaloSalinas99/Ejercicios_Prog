@@ -34,11 +34,12 @@ namespace PrimerEjercicio
             this.txtApellido = new System.Windows.Forms.Label();
             this.textNombre = new System.Windows.Forms.TextBox();
             this.textApellido = new System.Windows.Forms.TextBox();
+            this.cmbMaterias = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // btnSaludar
             // 
-            this.btnSaludar.Location = new System.Drawing.Point(242, 168);
+            this.btnSaludar.Location = new System.Drawing.Point(362, 206);
             this.btnSaludar.Name = "btnSaludar";
             this.btnSaludar.Size = new System.Drawing.Size(75, 23);
             this.btnSaludar.TabIndex = 0;
@@ -80,11 +81,21 @@ namespace PrimerEjercicio
             this.textApellido.Size = new System.Drawing.Size(100, 23);
             this.textApellido.TabIndex = 4;
             // 
+            // cmbMaterias
+            // 
+            this.cmbMaterias.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbMaterias.FormattingEnabled = true;
+            this.cmbMaterias.Location = new System.Drawing.Point(55, 160);
+            this.cmbMaterias.Name = "cmbMaterias";
+            this.cmbMaterias.Size = new System.Drawing.Size(309, 23);
+            this.cmbMaterias.TabIndex = 5;
+            // 
             // FormPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(363, 211);
+            this.ClientSize = new System.Drawing.Size(449, 241);
+            this.Controls.Add(this.cmbMaterias);
             this.Controls.Add(this.textApellido);
             this.Controls.Add(this.textNombre);
             this.Controls.Add(this.txtApellido);
@@ -96,6 +107,7 @@ namespace PrimerEjercicio
             this.Name = "FormPrincipal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Hola Windows Form";
+            this.Load += new System.EventHandler(this.FormPrincipal_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -108,5 +120,6 @@ namespace PrimerEjercicio
         private System.Windows.Forms.Label txtApellido;
         private System.Windows.Forms.TextBox textNombre;
         private System.Windows.Forms.TextBox textApellido;
+        private System.Windows.Forms.ComboBox cmbMaterias;
     }
 }

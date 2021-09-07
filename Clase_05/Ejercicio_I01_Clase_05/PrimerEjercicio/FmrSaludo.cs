@@ -12,15 +12,12 @@ namespace PrimerEjercicio
 {
     public partial class FrmSaludo : Form
     {
-        public FrmSaludo(string titulo,string mensaje)
+        public FrmSaludo(string titulo, string mensaje)
         {
             InitializeComponent();
             lblNombre.Text = mensaje;
             lblTitulo.Text = titulo;
 
         }
-
-
-
     }
 }
