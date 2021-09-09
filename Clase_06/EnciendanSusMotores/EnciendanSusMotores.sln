@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnciendanSusMotores.Vista", "EnciendanSusMotores.Vista\EnciendanSusMotores.Vista.csproj", "{040A93C3-B4A9-4DCB-99C4-DE305C2E1894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{A260916D-446E-42CB-97CD-3DDF43027469}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{040A93C3-B4A9-4DCB-99C4-DE305C2E1894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040A93C3-B4A9-4DCB-99C4-DE305C2E1894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040A93C3-B4A9-4DCB-99C4-DE305C2E1894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040A93C3-B4A9-4DCB-99C4-DE305C2E1894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A260916D-446E-42CB-97CD-3DDF43027469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A260916D-446E-42CB-97CD-3DDF43027469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A260916D-446E-42CB-97CD-3DDF43027469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A260916D-446E-42CB-97CD-3DDF43027469}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F70A89D6-ED4E-45E5-A9CA-3189F5694B86}
+	EndGlobalSection
+EndGlobal
