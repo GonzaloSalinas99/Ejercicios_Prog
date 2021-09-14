@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
 namespace Biblioteca
 {
@@ -38,7 +39,15 @@ namespace Biblioteca
 
         public static bool operator ==(Jugador j , Jugador j2)
         {
-            return j.dni == j2.dni;
+            if(j.dni == j2.dni)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+            
         }
 
         public static bool operator !=(Jugador j,Jugador j2)
@@ -48,7 +57,17 @@ namespace Biblioteca
 
         public string MostrarDatos()
         {
-            return $"Nombre: {nombre}\n DNI: {dni}\n Goles: {totalGoles}\n P. Jugados: {partidosJugados}\n Prom. Goles {GetPromedioGoles()}";
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("\nDetalles del jugador");
+            sb.AppendLine($"Nombre: {nombre}");
+            sb.AppendLine($"Dni: {dni}");
+            sb.AppendLine($"P. Jugados: {partidosJugados}");
+            sb.AppendLine($"Total Goles: {totalGoles}");
+            sb.AppendLine($"Prom. Goles: {GetPromedioGoles()}");
+            sb.AppendLine("--------------------");
+
+            return sb.ToString();
+                
         }
 
     }
