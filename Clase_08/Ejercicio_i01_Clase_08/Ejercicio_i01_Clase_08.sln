@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViajarEsUnPlacer.Vista", "ViajarEsUnPlacer.Vista\ViajarEsUnPlacer.Vista.csproj", "{6BF148A6-B209-4795-8E4E-FB1E9F026393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{BA33F90E-9F2E-4CA5-BC17-C8E69AA0CCFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BF148A6-B209-4795-8E4E-FB1E9F026393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF148A6-B209-4795-8E4E-FB1E9F026393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF148A6-B209-4795-8E4E-FB1E9F026393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF148A6-B209-4795-8E4E-FB1E9F026393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA33F90E-9F2E-4CA5-BC17-C8E69AA0CCFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA33F90E-9F2E-4CA5-BC17-C8E69AA0CCFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA33F90E-9F2E-4CA5-BC17-C8E69AA0CCFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA33F90E-9F2E-4CA5-BC17-C8E69AA0CCFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2CB87E2-9E14-4125-9626-4F15964591B0}
+	EndGlobalSection
+EndGlobal
