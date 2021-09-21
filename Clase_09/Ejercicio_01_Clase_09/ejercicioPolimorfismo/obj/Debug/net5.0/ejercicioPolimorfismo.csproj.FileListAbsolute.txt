@@ -1,0 +1,16 @@
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_09\Ejercicio_01_Clase_09\ejercicioPolimorfismo\bin\Debug\net5.0\ejercicioPolimorfismo.exe
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_09\Ejercicio_01_Clase_09\ejercicioPolimorfismo\bin\Debug\net5.0\ejercicioPolimorfismo.deps.json
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_09\Ejercicio_01_Clase_09\ejercicioPolimorfismo\bin\Debug\net5.0\ejercicioPolimorfismo.runtimeconfig.json
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_09\Ejercicio_01_Clase_09\ejercicioPolimorfismo\bin\Debug\net5.0\ejercicioPolimorfismo.runtimeconfig.dev.json
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_09\Ejercicio_01_Clase_09\ejercicioPolimorfismo\bin\Debug\net5.0\ejercicioPolimorfismo.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_09\Ejercicio_01_Clase_09\ejercicioPolimorfismo\bin\Debug\net5.0\ref\ejercicioPolimorfismo.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_09\Ejercicio_01_Clase_09\ejercicioPolimorfismo\bin\Debug\net5.0\ejercicioPolimorfismo.pdb
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_09\Ejercicio_01_Clase_09\ejercicioPolimorfismo\obj\Debug\net5.0\ejercicioPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_09\Ejercicio_01_Clase_09\ejercicioPolimorfismo\obj\Debug\net5.0\ejercicioPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_09\Ejercicio_01_Clase_09\ejercicioPolimorfismo\obj\Debug\net5.0\ejercicioPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_09\Ejercicio_01_Clase_09\ejercicioPolimorfismo\obj\Debug\net5.0\ejercicioPolimorfismo.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_09\Ejercicio_01_Clase_09\ejercicioPolimorfismo\obj\Debug\net5.0\ejercicioPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_09\Ejercicio_01_Clase_09\ejercicioPolimorfismo\obj\Debug\net5.0\ejercicioPolimorfismo.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_09\Ejercicio_01_Clase_09\ejercicioPolimorfismo\obj\Debug\net5.0\ref\ejercicioPolimorfismo.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_09\Ejercicio_01_Clase_09\ejercicioPolimorfismo\obj\Debug\net5.0\ejercicioPolimorfismo.pdb
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_09\Ejercicio_01_Clase_09\ejercicioPolimorfismo\obj\Debug\net5.0\ejercicioPolimorfismo.genruntimeconfig.cache
