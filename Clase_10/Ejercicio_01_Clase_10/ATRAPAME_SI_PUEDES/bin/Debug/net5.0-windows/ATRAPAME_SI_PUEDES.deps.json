@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ATRAPAME_SI_PUEDES/1.0.0": {
+        "runtime": {
+          "ATRAPAME_SI_PUEDES.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ATRAPAME_SI_PUEDES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
