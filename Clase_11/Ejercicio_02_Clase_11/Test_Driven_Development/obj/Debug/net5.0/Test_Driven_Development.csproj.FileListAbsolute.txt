@@ -1,0 +1,16 @@
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_11\Ejercicio_02_Clase_11\Test_Driven_Development\bin\Debug\net5.0\Test_Driven_Development.exe
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_11\Ejercicio_02_Clase_11\Test_Driven_Development\bin\Debug\net5.0\Test_Driven_Development.deps.json
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_11\Ejercicio_02_Clase_11\Test_Driven_Development\bin\Debug\net5.0\Test_Driven_Development.runtimeconfig.json
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_11\Ejercicio_02_Clase_11\Test_Driven_Development\bin\Debug\net5.0\Test_Driven_Development.runtimeconfig.dev.json
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_11\Ejercicio_02_Clase_11\Test_Driven_Development\bin\Debug\net5.0\Test_Driven_Development.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_11\Ejercicio_02_Clase_11\Test_Driven_Development\bin\Debug\net5.0\ref\Test_Driven_Development.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_11\Ejercicio_02_Clase_11\Test_Driven_Development\bin\Debug\net5.0\Test_Driven_Development.pdb
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_11\Ejercicio_02_Clase_11\Test_Driven_Development\obj\Debug\net5.0\Test_Driven_Development.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_11\Ejercicio_02_Clase_11\Test_Driven_Development\obj\Debug\net5.0\Test_Driven_Development.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_11\Ejercicio_02_Clase_11\Test_Driven_Development\obj\Debug\net5.0\Test_Driven_Development.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_11\Ejercicio_02_Clase_11\Test_Driven_Development\obj\Debug\net5.0\Test_Driven_Development.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_11\Ejercicio_02_Clase_11\Test_Driven_Development\obj\Debug\net5.0\Test_Driven_Development.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_11\Ejercicio_02_Clase_11\Test_Driven_Development\obj\Debug\net5.0\Test_Driven_Development.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_11\Ejercicio_02_Clase_11\Test_Driven_Development\obj\Debug\net5.0\ref\Test_Driven_Development.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_11\Ejercicio_02_Clase_11\Test_Driven_Development\obj\Debug\net5.0\Test_Driven_Development.pdb
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_11\Ejercicio_02_Clase_11\Test_Driven_Development\obj\Debug\net5.0\Test_Driven_Development.genruntimeconfig.cache
