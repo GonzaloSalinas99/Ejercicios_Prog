@@ -1,0 +1,16 @@
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_13\Ejercicio_02_Clase_13\ControlAduana.Vista\bin\Debug\net5.0\ControlAduana.Vista.exe
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_13\Ejercicio_02_Clase_13\ControlAduana.Vista\bin\Debug\net5.0\ControlAduana.Vista.deps.json
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_13\Ejercicio_02_Clase_13\ControlAduana.Vista\bin\Debug\net5.0\ControlAduana.Vista.runtimeconfig.json
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_13\Ejercicio_02_Clase_13\ControlAduana.Vista\bin\Debug\net5.0\ControlAduana.Vista.runtimeconfig.dev.json
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_13\Ejercicio_02_Clase_13\ControlAduana.Vista\bin\Debug\net5.0\ControlAduana.Vista.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_13\Ejercicio_02_Clase_13\ControlAduana.Vista\bin\Debug\net5.0\ref\ControlAduana.Vista.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_13\Ejercicio_02_Clase_13\ControlAduana.Vista\bin\Debug\net5.0\ControlAduana.Vista.pdb
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_13\Ejercicio_02_Clase_13\ControlAduana.Vista\obj\Debug\net5.0\ControlAduana.Vista.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_13\Ejercicio_02_Clase_13\ControlAduana.Vista\obj\Debug\net5.0\ControlAduana.Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_13\Ejercicio_02_Clase_13\ControlAduana.Vista\obj\Debug\net5.0\ControlAduana.Vista.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_13\Ejercicio_02_Clase_13\ControlAduana.Vista\obj\Debug\net5.0\ControlAduana.Vista.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_13\Ejercicio_02_Clase_13\ControlAduana.Vista\obj\Debug\net5.0\ControlAduana.Vista.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_13\Ejercicio_02_Clase_13\ControlAduana.Vista\obj\Debug\net5.0\ControlAduana.Vista.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_13\Ejercicio_02_Clase_13\ControlAduana.Vista\obj\Debug\net5.0\ref\ControlAduana.Vista.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_13\Ejercicio_02_Clase_13\ControlAduana.Vista\obj\Debug\net5.0\ControlAduana.Vista.pdb
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_13\Ejercicio_02_Clase_13\ControlAduana.Vista\obj\Debug\net5.0\ControlAduana.Vista.genruntimeconfig.cache

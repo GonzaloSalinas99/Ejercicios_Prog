@@ -6,27 +6,23 @@ using System.Threading.Tasks;
 
 namespace Biblioteca
 {
-    public class AutoF1
+    public class AutoF1 : VehiculoDeCarrera
     {
-        private short cantidadCombustible;
-        private bool enCompetencia;
-        private string escuderia;
-        private short numero;
-        private short vueltasRestantes;
+        private short caballoDeFuerza;
 
-        public AutoF1(short numero ,string escuderia)
+        public AutoF1(short numero,string escuderia):base(numero,escuderia)
         {
-            this.enCompetencia = false;
-            this.escuderia = escuderia;
-            this.numero = numero;
-            this.cantidadCombustible = 0;
-            this.vueltasRestantes = 0;
         }
+        public AutoF1(short numero, string escuderia,short caballoDeFuerza) : this(numero, escuderia)
+        {
+            CaballoDeFuerza = caballoDeFuerza;
+        }
+
 
         public static bool operator ==(AutoF1 primerAuto, AutoF1 segundoAuto)
         {
 
-            if ((primerAuto.numero == segundoAuto.numero) && (primerAuto.escuderia.ToString() == segundoAuto.escuderia.ToString()))
+            if ((primerAuto == segundoAuto) && primerAuto.caballoDeFuerza == segundoAuto.caballoDeFuerza)
             {
                 return true;
             }
@@ -38,55 +34,20 @@ namespace Biblioteca
             return (!(primerAuto == segundoAuto));
         }
 
-        public bool GetEstadoCompetencia()
-        {
-            return this.enCompetencia;
-        }
-
-        public short GetCantidadCombustie()
-        {
-            return this.cantidadCombustible;
-        }
-        public short GetVueltasRestantes()
-        {
-            return this.vueltasRestantes;
-        }
-
-        public void SetEstadoCompetencia(bool nuevoEstado)
-        {
-            this.enCompetencia = nuevoEstado;
-        }
-
-        public void SetCantidadCombustible(short cantidadCombustible)
-        {
-            this.cantidadCombustible = cantidadCombustible;
-        }
+        
 
 
-        public void SetVueltasRestantes(short vueltasRestantes)
+        public short CaballoDeFuerza
         {
-            this.vueltasRestantes = vueltasRestantes;
+            get { return this.caballoDeFuerza; }
+            set { this.caballoDeFuerza = value; }
         }
 
-        public string MostrarDatos()
+        public override string MostrarDatos()
         {
             StringBuilder sb = new StringBuilder();
-
-            string estado;
-            if(enCompetencia)
-            {
-                estado = "Fuera de Competencia";
-            }
-            else
-            {
-                estado = "En Competencia";
-            }
-
-            sb.AppendLine($"Escuderia: {escuderia}");
-            sb.AppendLine($"Numero: {numero}");
-            sb.AppendLine($"Estado de Competencia: {estado}");
-            sb.AppendLine($"Cantidad de combustible: {cantidadCombustible}");
-            sb.AppendLine($"Vueltas Restantes: {vueltasRestantes}");
+            sb.AppendLine(base.MostrarDatos());
+            sb.AppendLine($"Caballos de fuerza: {CaballoDeFuerza}");
 
             return sb.ToString();
         }

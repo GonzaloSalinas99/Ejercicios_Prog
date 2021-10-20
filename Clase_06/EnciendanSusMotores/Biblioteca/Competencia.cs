@@ -4,30 +4,58 @@ using System.Text;
 
 namespace Biblioteca
 {
+    public enum TipoCompetencia
+    {
+        F1,MotoCross
+    }
     public class Competencia
     {
         private short cantidadCompetidores;
         private short cantidadVueltas;
-        private List<AutoF1> competidores;
-
+        private List<VehiculoDeCarrera> competidores;
+        private TipoCompetencia tipoCompetencia;
         
 
         private Competencia()
         {
-            this.competidores = new List<AutoF1>();
+            this.competidores = new List<VehiculoDeCarrera>();
         }
-        public Competencia(short cantidadCompetidores, short cantidadVueltas):this()
+        public Competencia(short cantidadCompetidores, short cantidadVueltas,TipoCompetencia tipoCompetencia):this()
         {
             this.cantidadCompetidores = cantidadCompetidores;
             this.cantidadVueltas = cantidadVueltas;
+            
+        }
+        public short CantidadCompetidores
+        {
+            get { return this.cantidadCompetidores; }
+            set { this.cantidadCompetidores = value; }
         }
 
-        public static bool operator + (Competencia c , AutoF1 a)
+        public short CantidadVueltas
+        {
+            get { return this.cantidadVueltas; }
+            set { this.cantidadVueltas = value; }
+        }
+
+        public TipoCompetencia Tipo
+        {
+            get { return this.tipoCompetencia; }
+            set { this.tipoCompetencia = value; }
+        }
+
+        public VehiculoDeCarrera this [int i]
+        {
+            get { return competidores[i]; }
+            set { competidores[i] = value; }
+        }
+
+        public static bool operator + (Competencia c , VehiculoDeCarrera v)
         {
 
             if (c.competidores.Count < c.cantidadCompetidores)
             {
-                if(c!=a)
+                if(c!=v)
                 {
                     Random random = new Random();
                     a.SetEstadoCompetencia(true);
@@ -45,9 +73,18 @@ namespace Biblioteca
             }
         }
 
-        public static bool operator == (Competencia c , AutoF1 a)
+        public static bool operator == (Competencia c , VehiculoDeCarrera v)
         {
-            foreach (AutoF1 item in c.competidores)
+            Motocross motoAux;
+            if(c.Tipo == TipoCompetencia.MotoCross &&   v.GetType() == motoAux.GetType())
+            {
+                
+            }
+            else
+            {
+
+            }
+            foreach (VehiculoDeCarrera item in c.competidores)
             {
                 if (item == a)
                 {
