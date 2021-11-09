@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cLCZrJW6hzdCkLcp5oueTJaHhK239cDngYOdTHGfCWx+nO2aFx2uqNQEp6IHcENQTjJz77yabRwU8ldF3c4ALA==",
+  "dgSpecHash": "Tb7Zd8KrjWTFrCCgM2pRVPlEGsd7FoChLIBWkYpcXvO/h6ASSDK3meKhb1CZqRq+o1pUZ2SnIhwDHta54WSBhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_12\\Ejercicio_01_Clase_12\\Biblioteca\\Biblioteca.csproj",
+  "projectFilePath": "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_12_TiposGenericos\\Ejercicio_01_Clase_12\\Biblioteca\\Biblioteca.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

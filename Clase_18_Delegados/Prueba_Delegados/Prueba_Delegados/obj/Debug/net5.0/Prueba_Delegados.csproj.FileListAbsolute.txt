@@ -1,0 +1,16 @@
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_18_Delegados\Prueba_Delegados\Prueba_Delegados\obj\Debug\net5.0\Prueba_Delegados.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_18_Delegados\Prueba_Delegados\Prueba_Delegados\obj\Debug\net5.0\Prueba_Delegados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_18_Delegados\Prueba_Delegados\Prueba_Delegados\obj\Debug\net5.0\Prueba_Delegados.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_18_Delegados\Prueba_Delegados\Prueba_Delegados\obj\Debug\net5.0\Prueba_Delegados.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_18_Delegados\Prueba_Delegados\Prueba_Delegados\obj\Debug\net5.0\Prueba_Delegados.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_18_Delegados\Prueba_Delegados\Prueba_Delegados\bin\Debug\net5.0\Prueba_Delegados.exe
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_18_Delegados\Prueba_Delegados\Prueba_Delegados\bin\Debug\net5.0\Prueba_Delegados.deps.json
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_18_Delegados\Prueba_Delegados\Prueba_Delegados\bin\Debug\net5.0\Prueba_Delegados.runtimeconfig.json
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_18_Delegados\Prueba_Delegados\Prueba_Delegados\bin\Debug\net5.0\Prueba_Delegados.runtimeconfig.dev.json
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_18_Delegados\Prueba_Delegados\Prueba_Delegados\bin\Debug\net5.0\Prueba_Delegados.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_18_Delegados\Prueba_Delegados\Prueba_Delegados\bin\Debug\net5.0\ref\Prueba_Delegados.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_18_Delegados\Prueba_Delegados\Prueba_Delegados\bin\Debug\net5.0\Prueba_Delegados.pdb
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_18_Delegados\Prueba_Delegados\Prueba_Delegados\obj\Debug\net5.0\Prueba_Delegados.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_18_Delegados\Prueba_Delegados\Prueba_Delegados\obj\Debug\net5.0\ref\Prueba_Delegados.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_18_Delegados\Prueba_Delegados\Prueba_Delegados\obj\Debug\net5.0\Prueba_Delegados.pdb
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_18_Delegados\Prueba_Delegados\Prueba_Delegados\obj\Debug\net5.0\Prueba_Delegados.genruntimeconfig.cache

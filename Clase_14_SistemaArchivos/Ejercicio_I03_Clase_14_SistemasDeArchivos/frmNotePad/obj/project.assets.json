@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0-windows7.0": {}
+    "net5.0-windows7.0": {
+      "IO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/IO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IO.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "IO/1.0.0": {
+      "type": "project",
+      "path": "../IO/IO.csproj",
+      "msbuildProject": "../IO/IO.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0-windows7.0": []
+    "net5.0-windows7.0": [
+      "IO >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Gonzalo\\.nuget\\packages\\": {},
@@ -32,13 +51,16 @@
         "net5.0-windows7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://nugets.trabajo.gob.ar/nuget": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_14_SistemaArchivos\\Ejercicio_I03_Clase_14_SistemasDeArchivos\\IO\\IO.csproj": {
+              "projectPath": "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_14_SistemaArchivos\\Ejercicio_I03_Clase_14_SistemasDeArchivos\\IO\\IO.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "frmNotePad/1.0.0": {
+        "dependencies": {
+          "IO": "1.0.0"
+        },
         "runtime": {
           "frmNotePad.dll": {}
+        }
+      },
+      "IO/1.0.0": {
+        "runtime": {
+          "IO.dll": {}
         }
       }
     }
   },
   "libraries": {
     "frmNotePad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IO/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

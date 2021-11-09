@@ -8,6 +8,8 @@ namespace Biblioteca
     {
         private List<T> equipos;
         public string nombre;
+        public Equipo algo;
+
 
         public Torneo()
         {

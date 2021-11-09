@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_12\\Ejercicio_01_Clase_12\\Torneo.Vista\\Torneo.Vista.csproj",
+      "projectUniqueName": "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_12_TiposGenericos\\Ejercicio_01_Clase_12\\Torneo.Vista\\Torneo.Vista.csproj",
       "projectName": "Torneo.Vista",
-      "projectPath": "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_12\\Ejercicio_01_Clase_12\\Torneo.Vista\\Torneo.Vista.csproj",
+      "projectPath": "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_12_TiposGenericos\\Ejercicio_01_Clase_12\\Torneo.Vista\\Torneo.Vista.csproj",
       "packagesPath": "C:\\Users\\Gonzalo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_12\\Ejercicio_01_Clase_12\\Torneo.Vista\\obj\\",
+      "outputPath": "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_12_TiposGenericos\\Ejercicio_01_Clase_12\\Torneo.Vista\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,15 +51,14 @@
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_12\\Ejercicio_01_Clase_12\\Biblioteca\\Biblioteca.csproj": {
-              "projectPath": "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_12\\Ejercicio_01_Clase_12\\Biblioteca\\Biblioteca.csproj"
+            "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_12_TiposGenericos\\Ejercicio_01_Clase_12\\Biblioteca\\Biblioteca.csproj": {
+              "projectPath": "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_12_TiposGenericos\\Ejercicio_01_Clase_12\\Biblioteca\\Biblioteca.csproj"
             }
           }
         }

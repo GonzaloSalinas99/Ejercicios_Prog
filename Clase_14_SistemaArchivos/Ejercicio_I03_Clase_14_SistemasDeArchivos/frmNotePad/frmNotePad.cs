@@ -24,14 +24,6 @@ namespace frmNotePad
             saveFile = new SaveFileDialog();
         }
 
-        private void archivoToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void toolStripStatusLabel1_Click(object sender, EventArgs e)
-        {
-        }
 
         private void abrirToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -39,7 +31,7 @@ namespace frmNotePad
             {
                 try
                 {
-                    openFile.ShowDialog();
+                    
                     string archivo = openFile.FileName;
 
                     using (StreamReader streamReader = new StreamReader(archivo))
@@ -127,6 +119,11 @@ namespace frmNotePad
         private void richTextBox1_TextChanged(object sender, EventArgs e)
         {
             toolStripStatusLabel1.Text = $"{richTextBox1.Text.Length} caracteres";
+
+        }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
 
         }
     }

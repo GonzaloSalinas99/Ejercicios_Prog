@@ -1,0 +1,19 @@
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_15_Serializacion\Ejercicio_01_Clase_15_Serializacion\Lista Del Super\obj\Debug\net5.0-windows\Lista Del Super.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_15_Serializacion\Ejercicio_01_Clase_15_Serializacion\Lista Del Super\obj\Debug\net5.0-windows\Lista_Del_Super.frmAltaModificacion.resources
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_15_Serializacion\Ejercicio_01_Clase_15_Serializacion\Lista Del Super\obj\Debug\net5.0-windows\Lista Del Super.csproj.GenerateResource.cache
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_15_Serializacion\Ejercicio_01_Clase_15_Serializacion\Lista Del Super\obj\Debug\net5.0-windows\Lista Del Super.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_15_Serializacion\Ejercicio_01_Clase_15_Serializacion\Lista Del Super\obj\Debug\net5.0-windows\Lista Del Super.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_15_Serializacion\Ejercicio_01_Clase_15_Serializacion\Lista Del Super\obj\Debug\net5.0-windows\Lista Del Super.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_15_Serializacion\Ejercicio_01_Clase_15_Serializacion\Lista Del Super\obj\Debug\net5.0-windows\Lista Del Super.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_15_Serializacion\Ejercicio_01_Clase_15_Serializacion\Lista Del Super\bin\Debug\net5.0-windows\Lista Del Super.exe
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_15_Serializacion\Ejercicio_01_Clase_15_Serializacion\Lista Del Super\bin\Debug\net5.0-windows\Lista Del Super.deps.json
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_15_Serializacion\Ejercicio_01_Clase_15_Serializacion\Lista Del Super\bin\Debug\net5.0-windows\Lista Del Super.runtimeconfig.json
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_15_Serializacion\Ejercicio_01_Clase_15_Serializacion\Lista Del Super\bin\Debug\net5.0-windows\Lista Del Super.runtimeconfig.dev.json
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_15_Serializacion\Ejercicio_01_Clase_15_Serializacion\Lista Del Super\bin\Debug\net5.0-windows\Lista Del Super.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_15_Serializacion\Ejercicio_01_Clase_15_Serializacion\Lista Del Super\bin\Debug\net5.0-windows\ref\Lista Del Super.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_15_Serializacion\Ejercicio_01_Clase_15_Serializacion\Lista Del Super\bin\Debug\net5.0-windows\Lista Del Super.pdb
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_15_Serializacion\Ejercicio_01_Clase_15_Serializacion\Lista Del Super\obj\Debug\net5.0-windows\Lista_Del_Super.frmListaSupermercado.resources
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_15_Serializacion\Ejercicio_01_Clase_15_Serializacion\Lista Del Super\obj\Debug\net5.0-windows\Lista Del Super.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_15_Serializacion\Ejercicio_01_Clase_15_Serializacion\Lista Del Super\obj\Debug\net5.0-windows\ref\Lista Del Super.dll
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_15_Serializacion\Ejercicio_01_Clase_15_Serializacion\Lista Del Super\obj\Debug\net5.0-windows\Lista Del Super.pdb
+C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_15_Serializacion\Ejercicio_01_Clase_15_Serializacion\Lista Del Super\obj\Debug\net5.0-windows\Lista Del Super.genruntimeconfig.cache
