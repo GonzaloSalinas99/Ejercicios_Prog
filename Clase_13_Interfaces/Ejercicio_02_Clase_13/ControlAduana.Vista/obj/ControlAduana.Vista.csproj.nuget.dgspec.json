@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_13\\Ejercicio_02_Clase_13\\ControlAduana.Vista\\ControlAduana.Vista.csproj": {}
+    "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_13_Interfaces\\Ejercicio_02_Clase_13\\ControlAduana.Vista\\ControlAduana.Vista.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_13\\Ejercicio_02_Clase_13\\ControlAduana.Vista\\ControlAduana.Vista.csproj": {
+    "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_13_Interfaces\\Ejercicio_02_Clase_13\\ControlAduana.Vista\\ControlAduana.Vista.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_13\\Ejercicio_02_Clase_13\\ControlAduana.Vista\\ControlAduana.Vista.csproj",
+        "projectUniqueName": "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_13_Interfaces\\Ejercicio_02_Clase_13\\ControlAduana.Vista\\ControlAduana.Vista.csproj",
         "projectName": "ControlAduana.Vista",
-        "projectPath": "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_13\\Ejercicio_02_Clase_13\\ControlAduana.Vista\\ControlAduana.Vista.csproj",
+        "projectPath": "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_13_Interfaces\\Ejercicio_02_Clase_13\\ControlAduana.Vista\\ControlAduana.Vista.csproj",
         "packagesPath": "C:\\Users\\Gonzalo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_13\\Ejercicio_02_Clase_13\\ControlAduana.Vista\\obj\\",
+        "outputPath": "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_13_Interfaces\\Ejercicio_02_Clase_13\\ControlAduana.Vista\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
           "https://nugets.trabajo.gob.ar/nuget": {}
         },
         "frameworks": {

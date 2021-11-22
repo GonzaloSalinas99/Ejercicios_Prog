@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MDqVe+nY+gFH7z9v1j/LMre2BxXLoEKcnt9OBf/93DCZOUrSYsCdAJ9qwagzzCN+jNERoko15KQRzO5E2JYykw==",
+  "dgSpecHash": "6vr8pvqduLJfhGEA9eIoZ5qh+ckC+PUrZyf1rLvjOA3LhXeh6RSXEVCZYfBJ8pi2/eDA37aTz3BybJpZZtPeDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_13\\Ejercicio_02_Clase_13\\ControlAduana.Vista\\ControlAduana.Vista.csproj",
+  "projectFilePath": "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_13_Interfaces\\Ejercicio_02_Clase_13\\ControlAduana.Vista\\ControlAduana.Vista.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

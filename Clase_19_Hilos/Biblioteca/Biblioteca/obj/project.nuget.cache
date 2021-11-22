@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fRnLPqkqnCfMYftbDLHY5uB7QMzTDqypUl4yGiXwC1bEBA/gnEKoLE5fO/Md2fPkE2I3avW31UfbZdkaCeHqrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gonzalo\\Desktop\\Repositorios\\Ejercicios_Prog\\Clase_19_Hilos\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gonzalo\\.nuget\\packages\\namegenerator\\2.0.4\\namegenerator.2.0.4.nupkg.sha512",
+    "C:\\Users\\Gonzalo\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Contabilidad.Vista
-build_property.ProjectDir = C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_12\Ejercicio_02_Clase_12\Contabilidad.Vista\
+build_property.ProjectDir = C:\Users\Gonzalo\Desktop\Repositorios\Ejercicios_Prog\Clase_12_TiposGenericos\Ejercicio_02_Clase_12\Contabilidad.Vista\
